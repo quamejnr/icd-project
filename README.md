@@ -38,7 +38,7 @@ _Below is the instructions on how to get this app running_
    ```
 
 
-5. Open `http://localhost:8000`
+5. Open `http://localhost:8000` to view it in the browser
 
 
 ## Usage
