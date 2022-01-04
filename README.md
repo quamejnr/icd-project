@@ -32,7 +32,7 @@ _Below are instructions on how to get this app running_
    ```
    
 
-4. Create Migrations
+4. Apply Migrations
    ```sh
    $ docker-compose exec web python manage.py migrate
    ```
