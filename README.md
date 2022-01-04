@@ -1,5 +1,5 @@
 # International Classification of Diseases API
-> This is an API for ICD-10 diseases built with Django and Django Rest Framework using Postresql as the database.
+> This is an API for ICD-10 diseases built with Django and Django Rest Framework using Postgresql as the database.
 
 
 ## **Installation**
