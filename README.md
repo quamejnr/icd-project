@@ -4,7 +4,7 @@
 
 ## **Installation**
 
-_Below is the instructions on how to get this app running_
+_Below are instructions on how to get this app running_
 
 
 1. Clone the repo
