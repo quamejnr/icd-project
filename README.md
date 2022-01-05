@@ -53,4 +53,4 @@ _Below are instructions to add data to your database_
 
 2. Upload file `icd-codes.csv` in project directory.
 
-3. Database will be populated now if upload is successful
+3. Database will be populated now if upload was successful
