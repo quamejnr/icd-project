@@ -43,3 +43,14 @@ _Below are instructions on how to get this app running_
 
 ## Usage
 You can view the various endpoints of the API at `http://localhost:8000/swagger`
+
+
+## Data
+
+_Below are instructions to add data to your database_
+
+1. Navigate to file upload endpoint `http://localhost:8000/icd-10/upload-file/`
+
+2. Upload file `icd-codes.csv` in project directory.
+
+3. Database will be populated now if upload is successful
