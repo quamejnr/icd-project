@@ -9,7 +9,7 @@ _Below are instructions on how to get this app running_
 
 1. Clone the repo
    ```sh
-   $ git clone https://github.com/quamejnr/icd-project.git
+   git clone https://github.com/quamejnr/icd-project.git
    ```
 
 
