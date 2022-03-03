@@ -28,13 +28,13 @@ _Below are instructions on how to get this app running_
 
 3. Build images and start services
    ```sh
-   $ docker-compose up -d --build
+   docker-compose up -d --build
    ```
    
 
 4. Apply Migrations
    ```sh
-   $ docker-compose exec web python manage.py migrate
+   docker-compose exec web python manage.py migrate
    ```
 
 
