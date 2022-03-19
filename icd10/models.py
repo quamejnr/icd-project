@@ -15,7 +15,7 @@ class Category(models.Model):
 
 class ICD(models.Model):
     diagnosis_code = models.CharField(max_length=10, blank=True)
-    full_code = models.CharField(max_length=15, blank=True, unique=True)
+    full_code = models.CharField(max_length=15, blank=True)
     abbreviated_description = models.TextField(max_length=100)
     full_description = models.TextField(max_length=233)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
